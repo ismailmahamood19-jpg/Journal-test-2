@@ -1,0 +1,9 @@
+{
+  "name": "Log your emotions",
+  "short_name": "Emotions",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#f7f3ec",
+  "description": "A private journal for emotions and triggers."
+}
